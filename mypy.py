@@ -1,0 +1,2 @@
+def mypy():
+    pass
